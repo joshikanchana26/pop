@@ -1,1 +1,14 @@
-ji
+hi 
+how are you?
+steps are given below fot git jenkins integrations
+make a directory using mkdir
+initialize git 
+add some file usin add and commit command
+link git to github account
+add url
+perform push operation 
+now create jenkin job using free style project 
+provide git repo url
+in build stage perform commands which u want to fetch
+apply, save and build
+get a success message
