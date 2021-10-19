@@ -1,0 +1,2 @@
+What is Jenkins CI CD?
+Jenkins is an open source automation server written in Java. It is used to continuously build and test software projects, enabling developers to set up a CI/CD environment. It also supports version control tools like Subversion, Git, Mercurial, and Maven.

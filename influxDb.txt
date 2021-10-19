@@ -1,0 +1,4 @@
+What is the use of InfluxDB?
+InfluxDB is a time series platform
+
+InfluxDB empowers developers to build IoT, analytics and monitoring software. It is purpose-built to handle the massive volumes and countless sources of time-stamped data produced by sensors, applications and infrastructure.
